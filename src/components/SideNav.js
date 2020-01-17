@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import 'font-awesome/css/font-awesome.min.css';
-import './SideNav.css';
+import './css/SideNav.css';
 
 class SideNav extends Component {
     render() {

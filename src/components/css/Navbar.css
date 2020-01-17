@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.topnav {
+    display: flex;
+    background-color: white;
+    overflow: hidden;
+    height: 60px;
+    /* border: 2px solid red; */
+    border-radius: 0px 0px 5px 5px;
+    border-bottom: 1px solid  #333;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    color: #333;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.active {
+    width: 120px;
+}
+
+.icon {
+    width: 70px;
+}

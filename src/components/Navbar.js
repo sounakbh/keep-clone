@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Searchbar from './Searchbar';
 import 'font-awesome/css/font-awesome.min.css';
-import './Navbar.css';
+import './css/Navbar.css';
  
 class NavBar extends Component {  
     render() {
