@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.title {
+    height: 35px;
+    width: 30%;
+    border:1px solid #cccccc;
+    border-radius: 5px;
+    margin-top: 1%;
+    padding-left: 1%;
+}
+
+.content {
+    height: 35px;
+    padding-bottom: 35px;
+    width: 30%;
+    border:1px solid #cccccc;
+    border-radius: 5px;
+    margin-top: 1%;
+    padding-left: 1%; 
+}
+
+button {
+    margin-top: 1%;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: #cccccc;
+    width: 90px;
+    height: 40px;
+    background-color:white;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
